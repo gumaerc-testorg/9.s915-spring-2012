@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e58020b8-2bc8-4658-154f-60e413bcfa66
 ---
@@ -12,7 +15,7 @@ This section outlines reading assignments for the course by the overall topic an
 {{< thopen >}}
 OVERVIEW
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 SPECIFIC TOPICS
 {{< thclose >}}
 
@@ -47,7 +50,7 @@ Saxe, Rebecca R., and Kevin A. Pelphrey. "[Introduction to a Special Section of 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 \*Lee, Sang Ah, and Elizabeth S. Spelke. "[Two Systems of Spatial Representation Underlying Navigation](http://dx.doi.org/10.1007/s00221-010-2349-5)." _Experimental Brain Research_ 206, no. 2 (2010): 179–88.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -101,7 +104,7 @@ Lakusta, Laura, et al. "[Impaired Geometric Reorientation Caused by Genetic Defe
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 \*Sugita, Yoichi. "[Innate Face Processing](http://dx.doi.org/10.1016/j.conb.2009.03.001)." _Current Opinion in Neurobiology_ 19, no. 1 (2009): 39–44.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -157,7 +160,7 @@ Pascalis, Olivier, and David J. Kelly. "[The Origins of Face Processing in Human
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 \*Scholl, Brian J. "Innateness and (Bayesian) Visual Perception: Reconciling Nativism and Development." Chapter 3 in _The Innate Mind 1: Structure and Contents._ Edited by Peter Carruthers, Stephen Laurence and Stephen Stich. Oxford University Press, 2005, pp. 34–52. ISBN: 9780195179996. \[Preview with [Google Books](http://books.google.com/books?id=z4uDxCZemD4C&pg=PA34#v=onepage)\]
 {{< tdclose >}}
 {{< tdopen >}}
@@ -209,7 +212,7 @@ Bavelier, Daphne, et al. "[Removing Brakes on Adult Brain Plasticity: from Molec
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 \*Slater, Alan, et al. "[The Shaping of the Face Space in Early Infancy: Becoming a Native Face Processor](http://dx.doi.org/10.1111/j.1750-8606.2010.00147.x )." _Child Development Perspectives_ 4, no. 3 (2010): 205–11.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -265,7 +268,7 @@ Dilks, Daniel D., et al. (submitted) The FFA Develops Early, but the pSTS and OF
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 \*Boyd, Robert, and Peter J. Richerson. "Culture, Adaptation, and Innateness." Chapter 2 in _The Innate Mind 2: Culture and Cognition_. Edited by Peter Carruthers, Stephen Laurence and Stephen Stich. Oxford University Press, 2007, pp. 23–38. ISBN: 9780195310146. \[Preview with [Google Books](http://books.google.com/books?id=2zWl5gXq524C&pg=PA23#v=onepage)\]
 {{< tdclose >}}
 {{< tdopen >}}
@@ -319,7 +322,7 @@ Hoeft, Fumiko, et al. "[Neural Systems Predicting Long-term Outcome in Dyslexia]
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Kuhl, Patricia K. "[Brain Mechanisms in Early Language Acquisition](http://dx.doi.org/10.1016/j.neuron.2010.08.038)." _Neuron_ 67, no. 5 (2010): 713–27.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -377,7 +380,7 @@ Bedny, Marina, et al. "[Language Processing in the Occipital Cortex of Congenita
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 \*Rovee-Collier, Carolyn, and Amy Giles. "[Why a Neuromaturational Model of Memory Fails: Exuberant Learning in Early Infancy](http://dx.doi.org/10.1016/j.beproc.2009.11.013)." _Behavioral Processes_ 83, no. 2 (2010): 197–206.
@@ -439,7 +442,7 @@ Race, Elizabeth, et al. "[Medial Temporal Lobe Damage Causes Deficits in Episodi
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 \*Schulz, Laura. ["The Origins of Inquiry: Inductive Inference in Early Childhood](http://dx.doi.org/10.1016/j.tics.2012.06.004)." _Trends in Cognitive Sciences_ 16, no. 7 (2012): 382–9.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -493,7 +496,7 @@ Hills, T. T., P. M. Todd, and R. L. Goldstone. ["Search in External and Internal
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 \*Crone, Eveline A., and K. Richard Riddenkoff. "[The Developing Brain: From Theory to Neuroimaging and Back](http://dx.doi.org/10.1016/j.dcn.2010.12.001)." _Developmental Cognitive Neuroscience_ 1, no. 2 (2011): 101–9.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -551,7 +554,7 @@ McDermott, Jennifer M., et al. "[Early Adversity and Neural Correlates of Execut
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 \*Thompson-Schill, Sharon L., et al. "[Cognition Without Control: When a Little Frontal Lobe Goes a Long Way](http://dx.doi.org/10.1111/j.1467-8721.2009.01648.x)." _Current Directions in Psychological Science_ 18, no. 5 (2007): 259–63.
