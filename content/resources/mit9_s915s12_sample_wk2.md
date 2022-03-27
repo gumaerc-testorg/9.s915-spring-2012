@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 327a3e8e-38a7-cdf3-318c-84ad570c77e8
 resourcetype: Document
 title: "Geometry and Navigation\u2014A Candidate Innate Representation"
 uid: 8c17c08a-aa5b-5205-b54c-854ea2e0ba01

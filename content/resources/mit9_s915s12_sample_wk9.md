@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 327a3e8e-38a7-cdf3-318c-84ad570c77e8
 resourcetype: Document
 title: Learning as Exploration
 uid: d399fd16-040e-4b58-b49f-d0ad09602421
