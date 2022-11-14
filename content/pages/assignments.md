@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section outlines the assignments for the course including weekly
+  response papers, presentations, and the final paper.  '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -40,7 +42,7 @@ SAMPLE RESPONSE PAPERS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Geometry and navigation—a candidate innate representation (PDF)]({{< baseurl >}}/resources/mit9_s915s12_sample_wk2)
+{{% resource_link 8c17c08a-aa5b-5205-b54c-854ea2e0ba01 "Geometry and navigation—a candidate innate representation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +51,7 @@ SAMPLE RESPONSE PAPERS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Learning as exploration (PDF)]({{< baseurl >}}/resources/mit9_s915s12_sample_wk9)
+{{% resource_link d399fd16-040e-4b58-b49f-d0ad09602421 "Learning as exploration (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +60,7 @@ SAMPLE RESPONSE PAPERS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Executive function (PDF)]({{< baseurl >}}/resources/mit9_s915s12_sample_wk10)
+{{% resource_link f737e8bd-cf54-f0ed-0845-f5d6c40d9166 "Executive function (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

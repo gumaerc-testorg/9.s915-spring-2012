@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section outlines reading assignments for the course by the overall
+  topic and specific subtopics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
